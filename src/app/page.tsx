@@ -13,7 +13,7 @@ const Home = () => {
                     <Link href="/contactus">Contact Us</Link>
                 </li>
                 <li>
-                    <Link href="/service">Our Services</Link>
+                    <Link href="/services">Our Services</Link>
                 </li>
             </ul>
         </div>
